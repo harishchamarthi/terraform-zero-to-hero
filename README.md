@@ -102,7 +102,7 @@ Learn about provisioners, mechanisms for executing actions on resources during c
 
 Differentiate between remote-exec and local-exec provisioners. Explore how remote-exec provisions actions on remote servers, while local-exec performs tasks locally.
 
-#### Applying Provisioners at Creation and Destruction 
+#### Applying Provisioners at Creation and Destruction
 
 Discover when to use provisioners during resource creation or destruction. Configure provisioners within resource blocks to execute specific actions.
 
